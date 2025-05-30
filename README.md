@@ -1,6 +1,6 @@
 # 🚗 TuLavado
 
-## 🧼 Descripción del Proyecto
+## Descripción del Proyecto
 **TuLavado** es una plataforma web para un lavadero de autos que busca modernizar la experiencia del cliente al ofrecer:
 - Reserva de turnos en línea
 - Visualización de servicios y precios
