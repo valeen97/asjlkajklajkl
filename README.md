@@ -1,4 +1,4 @@
-# 🚗 TuLavado - Lavadero 
+# 🚗 TuLavado
 
 ## 🧼 Descripción del Proyecto
 **Splash & Go** es una plataforma web para un lavadero de autos que busca modernizar la experiencia del cliente al ofrecer:
